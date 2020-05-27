@@ -20,4 +20,4 @@ Ideas:
 <li> wickets by over and/or ball
 
 
-
+Reminder: use Pandas for modeling
