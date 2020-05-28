@@ -54,9 +54,6 @@ Completed:
 
 Ideas: 
 
-<li> avgs by ball or over 2nd innings based on score, RRR, wickets (Viz or modeling) 
-<li> wickets by over and/or ball
-
-
-Reminder: use Pandas for modeling
+<li> Models/Viz for predicting runs in an over or ball
+<li> Models/Viz for predicting wickets in an over or ball
 
