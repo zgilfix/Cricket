@@ -3,6 +3,8 @@ Random Viz &amp; Analysis of IPL Data
 
 Data from Cricsheet.org
 
+The data comes in a somewhat tricky format so the dictionaries with the deliveries from each match need to be used to create a NumPy array or Pandas dataframe
+
 <br>
 <br>
 
