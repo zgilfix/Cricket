@@ -14,7 +14,9 @@ Completed:
 <li> Run Averages by Over, Ball, Ball in Over
   
 ![alt text](https://raw.githubusercontent.com/zgilfix/Cricket/master/Images/avg_by_ball.png)
+<br>
 ![alt text](https://raw.githubusercontent.com/zgilfix/Cricket/master/Images/avg_by_over.png)
+<br>
 ![alt text](https://raw.githubusercontent.com/zgilfix/Cricket/master/Images/avg_ball_in_over.png)
 
 
