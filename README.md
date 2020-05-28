@@ -13,12 +13,16 @@ Completed:
   
 ![alt text](https://raw.githubusercontent.com/zgilfix/Cricket/master/Images/run_chase.png)
   
-<li> Run Averages by Over, Ball, Ball in Over
+<li> Run Averages by Ball
   
 ![alt text](https://raw.githubusercontent.com/zgilfix/Cricket/master/Images/avg_by_ball.png)
 <br>
+
+<li> Run Averages by Over
 ![alt text](https://raw.githubusercontent.com/zgilfix/Cricket/master/Images/avg_by_over.png)
 <br>
+
+<li> Run Averages by Ball in Over
 ![alt text](https://raw.githubusercontent.com/zgilfix/Cricket/master/Images/avg_ball_in_over.png)
 
 
