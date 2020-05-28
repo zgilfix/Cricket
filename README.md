@@ -8,6 +8,9 @@ Data from Cricsheet.org
 
 Completed:
 <li> Run Chase Viz
+  
+![alt text] (https://raw.githubusercontent.com/zgilfix/Cricket/master/Images/run_chase.png)
+  
 <li> Run Averages by Over, Ball, Ball in Over
 
 <br>
