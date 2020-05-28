@@ -56,4 +56,6 @@ Ideas:
 
 <li> Models/Viz for predicting runs in an over or ball
 <li> Models/Viz for predicting wickets in an over or ball
+<li> Avgs/Wickets by Team 
+<li> Avgs/Wickets by Year
 
