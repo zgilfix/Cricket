@@ -27,6 +27,26 @@ Completed:
 <li> Run Averages by Ball in Over
   
 ![alt text](https://raw.githubusercontent.com/zgilfix/Cricket/master/Images/avg_ball_in_over.png)
+<br>
+
+
+
+
+<li> Wicket % by Ball in Over
+  
+![alt text](https://raw.githubusercontent.com/zgilfix/Cricket/master/Images/avgwick_ball.png)
+<br>
+
+<li> Wicket % by Ball in Over
+  
+![alt text](https://raw.githubusercontent.com/zgilfix/Cricket/master/Images/avgwick_over.png)
+<br>
+
+<li> Wicket % by Ball in Over
+  
+![alt text](https://raw.githubusercontent.com/zgilfix/Cricket/master/Images/avgwick_ball_in_over.png)
+<br>
+
 
 
 <br>
